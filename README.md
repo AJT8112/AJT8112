@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AJT8112
 - 👀 I’m interested in learning software development.
-- 🌱 I’m currently learning using FreeCodeCamp.org starting with the basics
+- 🌱 I’m currently learning using FreeCodeCamp.org starting with HTML5
 - 💞️ I’m looking to collaborate with other trainees or people to help with optomising development.
 - 📫 How to reach me .. alexnderJT@hotmail.com
 
