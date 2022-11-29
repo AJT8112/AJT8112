@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AJT8112 (Alex)
 - 👀 I’m building my Software Development skills and would love to learn as much as I can from the coding community.
 - 🌱 I’m currently building a solid base understanding of C# and Microsoft. 
-- 🏫 To learn via interactive methods and to enable asking questions to aid learning I have also completed 12 week [RE]Boot Course supported by Leeds Trinity Uni.
 - 💞️ I’m looking to collaborate with people to help with optomising development.
 - 💻 10 months into a Software Developer Apprenticeship with BLS.
 - linkedin.com/in/alexander-thomas-115910146
