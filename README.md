@@ -3,8 +3,8 @@
 - 🌱 I’m currently building a solid base understanding of HTML5, CSS3 and JavaScript utilising resources such as FreeCodeCamp.org, Pluralsight. 
 - 🏫 To learn via interactive methods and to enable asking questions to aid learning I have also completed 12 week [RE]Boot Course supported by Leeds Trinity Uni.
 - 💞️ I’m looking to collaborate with people to help with optomising development.
-- 💻 Soon to be Apprentice Software Developer with BLS.
-- 📫 How to reach me .. alexnderJT@hotmail.com or via my linked in --> linkedin.com/in/alexander-thomas-115910146
+- 💻 10 months into a Software Developer Apprenticeship with BLS.
+- linkedin.com/in/alexander-thomas-115910146
 
 <!---
 AJT8112/AJT8112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
